@@ -1,0 +1,26 @@
+#################################### ERROR LOG #########################################
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW1 10.215.26.42
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW2 10.215.26.33
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW3 10.215.26.43
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW4 10.215.26.45
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW5 10.215.26.44
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW6 10.215.26.41
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW7 10.215.26.40
+
+Backup Failed on 2021-12-23, 14:22:59 - Cannot connect via SSH or Telnet to SW8 10.215.26.49
+Backup Failed on 2021-12-23, 22:13:55 - Cannot connect via SSH or Telnet to SW8 10.215.26.69
+
+Backup Failed on 2021-12-23, 22:13:55 - Cannot connect via SSH or Telnet to SW9 10.215.26.59
+Backup Failed on 2021-12-25 20:29:01 - Cannot connect via SSH or Telnet to SW9 10.215.26.50
+Backup Failed on 2021-12-27 21:10 - Cannot connect via SSH or Telnet to SW5 10.215.26.44
+
+Backup Failed on 2021-12-27 21:10 - Cannot connect via SSH or Telnet to SW6 10.215.26.41
+
+Backup Failed on 2021-12-27 21:10 - Cannot connect via SSH or Telnet to SW9 10.215.26.50
+
